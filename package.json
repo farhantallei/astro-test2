@@ -10,5 +10,8 @@
   },
   "dependencies": {
     "astro": "^5.15.5"
+  },
+  "devDependencies": {
+    "rollup": "4.13.0"
   }
 }
